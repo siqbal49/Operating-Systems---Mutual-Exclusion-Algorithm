@@ -1,6 +1,6 @@
 Using C programming language, you will be developing a mutual exclusion algorithm for a process synchronization problem. 
-You need to make sure that your mutual exclusion algorithm ensures that only one process can access the critical section portion of your code
-at a given point in time. 
+You need to make sure that your mutual exclusion algorithm ensures that only one process can access the critical section portion of your code at a given point in time. 
+
 You are allowed to use any mutual exclusion / semaphore related C systems calls.
 
 a) Description of the problem is given below:
